@@ -1,4 +1,4 @@
-# Paper-review
+# Paper-review-for-CV-SSL
 Paper review for Computer Vision and Self-Supervised Learning
 
 this repository start on July 15, 2021
